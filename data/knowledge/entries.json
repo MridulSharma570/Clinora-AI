@@ -1,0 +1,82 @@
+[
+  {
+    "id": "preparing-appointment",
+    "title": "Prepare for a healthcare appointment",
+    "originalSummary": "A short written outline can make an appointment easier to use. Put your main concern first, add a rough timeline, choose two or three questions, and finish by checking that you understand the next step and who to contact.",
+    "category": "Appointment preparation",
+    "sourceOrganization": "MedlinePlus",
+    "sourceUrl": "https://medlineplus.gov/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "emergency-warning-signs",
+    "title": "Emergency warning signs need immediate action",
+    "originalSummary": "Some warning language should lead directly to local emergency help rather than an online conversation. Clinora AI uses a limited list of examples for routing; it cannot rule out an emergency when no example matches.",
+    "category": "Urgent safety",
+    "sourceOrganization": "Centers for Disease Control and Prevention",
+    "sourceUrl": "https://www.cdc.gov/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "describing-timing",
+    "title": "Describe timing and change in plain language",
+    "originalSummary": "You do not need perfect dates to explain a timeline. A rough starting point, how long an episode tends to last, whether it comes and goes, and what is different now can give a clinician a clearer picture.",
+    "category": "Telling your story",
+    "sourceOrganization": "MedlinePlus",
+    "sourceUrl": "https://medlineplus.gov/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "health-concern-timeline",
+    "title": "Keep a simple health-concern timeline",
+    "originalSummary": "A small note about when a concern appears and what else happened that day can be more manageable than a long diary. Record only what you are comfortable sharing, and avoid putting identifying details into online tools.",
+    "category": "Telling your story",
+    "sourceOrganization": "MedlinePlus",
+    "sourceUrl": "https://medlineplus.gov/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "clinician-question-list",
+    "title": "Use a clinician question list",
+    "originalSummary": "A question list is a conversation aid, not a result sheet. Mark the questions that matter most, ask what the next step means in everyday language, and request clarification whenever an answer is hard to follow.",
+    "category": "Appointment preparation",
+    "sourceOrganization": "Agency for Healthcare Research and Quality",
+    "sourceUrl": "https://www.ahrq.gov/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "online-health-privacy",
+    "title": "Privacy tips for online health tools",
+    "originalSummary": "Before using an online tool, check what it stores, where information goes, and how deletion works. Leave out names, contact details, account numbers, record identifiers, and other people's private information whenever they are unnecessary.",
+    "category": "Privacy",
+    "sourceOrganization": "US Department of Health and Human Services",
+    "sourceUrl": "https://www.hhs.gov/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "ai-health-limitations",
+    "title": "AI health information can be incomplete or wrong",
+    "originalSummary": "Generated language can sound confident while leaving out context or making an error. Use it to start questions rather than settle a health decision, and ask a qualified clinician to explain what applies to your situation.",
+    "category": "AI understanding",
+    "sourceOrganization": "National Institute of Standards and Technology",
+    "sourceUrl": "https://www.nist.gov/artificial-intelligence",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  },
+  {
+    "id": "daily-impact",
+    "title": "Explain daily impact without technical terms",
+    "originalSummary": "Everyday examples can communicate impact clearly. You might describe a task that became difficult, a change in sleep or movement, or something you stopped doing; you do not need to translate the experience into a medical label.",
+    "category": "Telling your story",
+    "sourceOrganization": "World Health Organization",
+    "sourceUrl": "https://www.who.int/",
+    "lastReviewed": "2026-10-24",
+    "licenseOrUsageNote": "Original Clinora AI summary; organization linked for reference only. No source text reproduced."
+  }
+]

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <title>Clinora AI abstract tide mark</title>
+  <rect width="64" height="64" rx="20" fill="#102733"/>
+  <path d="M14 35.5C20.5 25.8 27.2 22.7 34 26.2C40.8 29.7 44.7 29 50 22" stroke="#8EE0CF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M14 44C22.2 36.8 28.7 35.2 35.5 38.2C41.2 40.7 45.8 39.7 50 35" stroke="#B5A6FF" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+  <circle cx="45" cy="17" r="3" fill="#F3F7F6"/>
+</svg>

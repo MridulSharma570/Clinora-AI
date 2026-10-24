@@ -1,0 +1,32 @@
+[
+  {
+    "organization": "MedlinePlus",
+    "url": "https://medlineplus.gov/",
+    "usageNote": "External public reference link only; no endorsement or content reproduction."
+  },
+  {
+    "organization": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/",
+    "usageNote": "External public reference link only; no endorsement or content reproduction."
+  },
+  {
+    "organization": "Agency for Healthcare Research and Quality",
+    "url": "https://www.ahrq.gov/",
+    "usageNote": "External public reference link only; no endorsement or content reproduction."
+  },
+  {
+    "organization": "US Department of Health and Human Services",
+    "url": "https://www.hhs.gov/",
+    "usageNote": "External public reference link only; no endorsement or content reproduction."
+  },
+  {
+    "organization": "National Institute of Standards and Technology",
+    "url": "https://www.nist.gov/artificial-intelligence",
+    "usageNote": "External public reference link only; no endorsement or content reproduction."
+  },
+  {
+    "organization": "World Health Organization",
+    "url": "https://www.who.int/",
+    "usageNote": "External public reference link only; no endorsement or content reproduction."
+  }
+]
