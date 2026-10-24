@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+
+# Next.js
+/.next
+/out
+
+# production and test output
+/build
+/dist
+/coverage
+/playwright-report
+/test-results
+/playwright/.cache
+*.tsbuildinfo
+
+# local environment and secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# logs and OS/editor files
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
+
+# scratch artifacts
+/tmp
